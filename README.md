@@ -3,7 +3,7 @@
 
 [**SmartTV**](https://github.com/ThiagooSG/aprendendo_java/tree/main/SmartTv)
 
-Vamos criar um exemplo de uma classe para representar uma SmartTV sem interações e com valores já definidos onde: 
+**Vamos criar um exemplo de uma classe para representar uma SmartTV sem interações e com valores já definidos onde:** 
 1. Ela tenha as características: ligada (boolean), canal (int) e volume (int) 
 2. Nossa TV poderá ligar e desligar e assim mudar o estado ligada 
 3. Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1 
