@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Básico.iml" filepath="$PROJECT_DIR$/.idea/Básico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticao/EstruturaDeRepeticao.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticao/EstruturaDeRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
     </modules>
   </component>
